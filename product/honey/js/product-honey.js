@@ -11,7 +11,7 @@
     {
 
         id: "2",
-        title: "Choose Honey Type",
+        title: "2.Choose Honey Type",
         description: "Depending on the season, there may be different types of recently bottled honey on our site.",
         image: "img/order.svg"
     
@@ -20,7 +20,7 @@
     {
 
         id: "3",
-        title: "Order & Enjoy",
+        title: "3.Order & Enjoy",
         description: "Depending on the season, there may be different types of recently bottled honey on our site.",
         image: "img/choose.svg"
     
