@@ -39,9 +39,7 @@ function renderProduct(product){
         <p class="steps__Wait-text">${product. description}</p>
     </div>
     renderProducts(products);
-   ;
-              
-
+            
     }
 
-})
+
